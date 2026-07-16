@@ -75,7 +75,7 @@ const MOCK_RECIPES: NotionRecipe[] = [
       "루꼴라 위에 무화과와 리코타 치즈를 숟가락으로 떼어 올립니다.",
       "올리브유와 발사믹 글레이즈를 골고루 뿌려 완성합니다."
     ],
-    imageUrl: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=600&q=80",
     prepTime: "10분",
     difficulty: "쉬움",
   },
@@ -99,9 +99,9 @@ const MOCK_RECIPES: NotionRecipe[] = [
 const MOCK_STORIES: NotionStory[] = [
   {
     id: "story-1",
-    title: "3대째 이어온 해남 밤고구마 농장의 흙과 땀 이야기",
+    title: "3대째 이어온 해남 밤감자 농장의 흙과 땀 이야기",
     excerpt: "기계 대신 손으로 직접 일구며, 땅의 본래 힘을 믿고 농사짓는 김성호 농부의 철학을 소개합니다.",
-    content: "해남의 황토밭에서 자란 고구마는 밤처럼 달고 고소합니다. 화학비료를 최소화하고, 자연 퇴비와 미생물 공법으로 흙을 살리는 데 집중했습니다...",
+    content: "해남의 황토밭에서 자란 감자는 밤처럼 달고 고소합니다. 화학비료를 최소화하고, 자연 퇴비와 미생물 공법으로 흙을 살리는 데 집중했습니다...",
     producerName: "김성호 농부",
     location: "전라남도 해남군",
     imageUrl: "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=800&q=80",
@@ -122,8 +122,8 @@ const MOCK_STORIES: NotionStory[] = [
 const MOCK_PRODUCTS: NotionProduct[] = [
   {
     id: "prod-1",
-    name: "해남 유기농 꿀 밤고구마 3kg",
-    description: "황토밭에서 건강하게 자라 포슬포슬하고 달콤한 프리미엄 밤고구마입니다.",
+    name: "해남 유기농 꿀 밤감자 3kg",
+    description: "황토밭에서 건강하게 자라 포슬포슬하고 달콤한 프리미엄 밤감자입니다.",
     price: 18900,
     originalPrice: 22000,
     imageUrl: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=600&q=80",

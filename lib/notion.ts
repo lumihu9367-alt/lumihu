@@ -126,7 +126,7 @@ const MOCK_PRODUCTS: NotionProduct[] = [
     description: "황토밭에서 건강하게 자라 포슬포슬하고 달콤한 프리미엄 밤고구마입니다.",
     price: 18900,
     originalPrice: 22000,
-    imageUrl: "https://images.unsplash.com/photo-1558611848-0e0d0c0c31fb?auto=format&fit=crop&w=600&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=600&q=80",
     isSeasonal: true,
     seasonMonths: [7, 8, 9, 10],
     stockStatus: "IN_STOCK",
